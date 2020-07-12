@@ -1,5 +1,5 @@
-﻿### Ankit Kumar Panda
-## Software Developer
+## Ankit Kumar Panda
+### Software Developer
 
 I am a proffessional software developer, with an interest in microservices and cloud technologies.
 
