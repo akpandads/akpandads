@@ -1,7 +1,7 @@
 ## Ankit Kumar Panda
 ### Software Developer
 
-I am a proffessional software developer, with an interest in _*microservices and cloud technologies*_.
+I am a professional software developer, with an interest in _*microservices and cloud technologies*_.
 
 Proficient in **Java technologies**, I have time and again developed small projects and tools to help out familiy and friends (Apart from my regular work). This profile mainly focuses on such pet projects and the learning materials developed or followed by me.
 
